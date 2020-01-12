@@ -21,7 +21,7 @@ The lectures are divided into four units, and several additional workshops, plus
 
 | Week | Content | Tools, packages, & techs | Documents|
 | :-: | :--: | :-: | :-: |
-| Week 1 | Introduction |  Tools installation (Python; Anaconda, Jupyter Notebook; Git and GitHub; Markdown language) | <li>[Slides 1. Intro]()  |
+| Week 1 | Introduction |  Tools installation (Python; Anaconda, Jupyter Notebook; Git and GitHub; Markdown language) | <li>[Slides 1. Introduction](https://github.com/shary777/JOUR7280/blob/master/slides/1%20Intro.pdf) <li>[Slides 1b. Installation](https://github.com/shary777/JOUR7280/blob/master/slides/1b%20Installation.pdf) <li>[code 01](https://github.com/shary777/JOUR7280/blob/master/codes/01_print.ipynb) |
 
 *Notes: the code examples are for educational purposes and in-class demonstrations only. Since the webpages for harvesting are subject to change, the codes presented in this course may not work as always.*
 
