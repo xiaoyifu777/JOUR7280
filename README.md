@@ -1,5 +1,5 @@
 
-## 2019-2020 JOUR7280 *Big Data Analytics for Media and Communication*
+## 2020-2021 JOUR7280/COMM7780 *Big Data Analytics for Media and Communication*
 
 - This repository is created for the course documents of a postgraduate-level course, *Big Data Analytics for Media and Communication*, @ Hong Kong Baptist University (**HKBU**), lectured by Dr. Xiaoyi Fu.
 
@@ -10,19 +10,17 @@ This course aims to introduce the fundamental knowledge and hands-on skills of b
 This course contains a total of 12 classes (weeks). Each class lasts for 3 hours. There are 11 lectures (including in-class assignments and tutorials), and 1 presentation week.
 
 The lectures are divided into four units, and several additional workshops, plus a presentation week:
-- Unit 1: Data science fundamentals and basic Python programming (week 1 – 4)
-- Unit 2: Automated web data collection (week 5 – 8)
-- Unit 3: Data processing and data management (week 8 – 10)
-- Unit 4: Data exploration (week 11 - 12)
-- Project implementation & presentation
+- Module 1: Data science fundamentals and Python programming
+- Module 2: Data collection and (pre-)processing
+- Module 3: Data exploration and visualization   
 
 
 ### Course Syllabus (weekly teaching plan)
 
-| Week | Content | Tools, packages, & techs | Documents|
-| :-: | :--: | :-: | :-: |
-| Week 1 | Introduction |  Tools installation (Python; Anaconda, Jupyter Notebook; Git and GitHub; Markdown language) | <li>[Slides 1. Introduction](https://github.com/shary777/JOUR7280/blob/master/slides/1%20Intro.pdf) <li>[Slides 1b. Installation](https://github.com/shary777/JOUR7280/blob/master/slides/1b%20Installation.pdf) <li>[code 01](https://github.com/shary777/JOUR7280/blob/master/codes/01_print.ipynb) |
-| Week 2 | Python Basics | Python (program execution, variables, expressions, conditional statements) | <li>[Slides 2. Basics](https://github.com/shary777/JOUR7280/blob/master/slides/2%20Basics.pdf) <li>[Slides 3. Conditional statements](https://github.com/shary777/JOUR7280/blob/master/slides/3%20Conditional.pdf) <li>[Code example 2](https://github.com/shary777/JOUR7280/blob/master/codes/2%20expressions.ipynb) <li>[code example 3](https://github.com/shary777/JOUR7280/blob/master/codes/3%20conditional-statements.ipynb)|
+| Week | Content | Documents|
+| :-: | :--: | :-: |
+| Week 1 | Introduction |  <li>[Slides L1a. Overview](https://github.com/shary777/JOUR7280/blob/master/slides/L1a%20Overview.pdf) <li>[Slides L1b. Introduction](https://github.com/shary777/JOUR7280/blob/master/slides/L1b%20DS%20Glance.pdf) <li>[Slides L1c](https://github.com/shary777/JOUR7280/blob/master/slides/L1c%20Tools.pdf) |
+<!-- | Week 2 | Python Basics | <li>[Slides 2. Basics](https://github.com/shary777/JOUR7280/blob/master/slides/2%20Basics.pdf) <li>[Slides 3. Conditional statements](https://github.com/shary777/JOUR7280/blob/master/slides/3%20Conditional.pdf) <li>[Code example 2](https://github.com/shary777/JOUR7280/blob/master/codes/2%20expressions.ipynb) <li>[code example 3](https://github.com/shary777/JOUR7280/blob/master/codes/3%20conditional-statements.ipynb)| -->
 
 *Notes: the code examples are for educational purposes and in-class demonstrations only. Since the webpages for harvesting are subject to change, the codes presented in this course may not work as always.*
 
