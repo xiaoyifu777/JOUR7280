@@ -20,7 +20,7 @@ The lectures are divided into four units, and several additional workshops, plus
 | Week | Content | Documents|
 | :-: | :--: | :-: |
 | Week 1 | Introduction |  <li>[Slides L1a. Overview](https://github.com/shary777/JOUR7280/blob/master/slides/L1a%20Overview.pdf) <li>[Slides L1b. Introduction](https://github.com/shary777/JOUR7280/blob/master/slides/L1b%20DS%20Glance.pdf) <li>[Slides L1c](https://github.com/shary777/JOUR7280/blob/master/slides/L1c%20Tools.pdf ) |
-<!-- | Week 2 | Python Basics | <li>[Slides 2. Basics](https://github.com/shary777/JOUR7280/blob/master/slides/2%20Basics.pdf) <li>[Slides 3. Conditional statements](https://github.com/shary777/JOUR7280/blob/master/slides/3%20Conditional.pdf) <li>[Code example 2](https://github.com/shary777/JOUR7280/blob/master/codes/2%20expressions.ipynb) <li>[code example 3](https://github.com/shary777/JOUR7280/blob/master/codes/3%20conditional-statements.ipynb)| -->
+| Week 2 | Python Basics | <li>[Slides L2. Basics](https://github.com/shary777/JOUR7280/blob/master/slides/L2%20Basics.pdf) <li>[Code: 2 expressions.ipynb](https://github.com/shary777/JOUR7280/blob/master/codes/2%20expressions.ipynb) |
 
 *Notes: the code examples are for educational purposes and in-class demonstrations only. Since the webpages for harvesting are subject to change, the codes presented in this course may not work as always.*
 
