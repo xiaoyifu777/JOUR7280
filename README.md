@@ -25,6 +25,7 @@ The lectures are divided into four units, and several additional workshops, plus
 | Week 4 | Python Basics | <li>[Slides L4a Loops and Iteration](https://github.com/shary777/JOUR7280/blob/master/slides/L4a%20Loops%20and%20Iteration.pdf) <li>[Slides L4b Strings](https://github.com/shary777/JOUR7280/blob/master/slides/L4b%20Strings.pdf) <li>[Code: 5 Loops.ipynb](https://github.com/shary777/JOUR7280/blob/master/codes/5%20Loops.ipynb) <li>[Code: 6 string.ipynb](https://github.com/shary777/JOUR7280/blob/master/codes/6%20string.ipynb)|
 | Week 5 | Python Basics | <li>[Slides L5 Data Structures](https://github.com/shary777/JOUR7280/blob/master/slides/L5%20Data%20Structures.pdf) <li>[Code: 7 data structures.ipynb](https://github.com/shary777/JOUR7280/blob/master/codes/7%20data%20structures.ipynb)|
 | Week 6 | Pandas | <li>[Slides L6 Python Packages for Data Science](https://github.com/shary777/JOUR7280/blob/master/slides/L6%20Python%20Packages%20for%20Data%20Science.pdf) <li>[Code: L6 Tutorial](https://github.com/shary777/JOUR7280/tree/master/codes/L6)|
+| Week 7 | Pandas, Web scraping | <li>[Slides L7 Web scraping](https://github.com/shary777/JOUR7280/blob/master/slides/L7%20Web%20scraping.pdf) <li>[Code: L7 Tutorial](https://github.com/shary777/JOUR7280/tree/master/codes/L7)|
 
 *Notes: the code examples are for educational purposes and in-class demonstrations only. Since the webpages for harvesting are subject to change, the codes presented in this course may not work as always.*
 
