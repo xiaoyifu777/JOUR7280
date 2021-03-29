@@ -28,6 +28,8 @@ The lectures are divided into four units, and several additional workshops, plus
 | Week 7 | Pandas, Web scraping | <li>[Slides L7 Web scraping](https://github.com/shary777/JOUR7280/blob/master/slides/L7%20Web%20scraping.pdf) <li>[Code: L7 Tutorial](https://github.com/shary777/JOUR7280/tree/master/codes/L7)|
 | Week 8 | Web scraping | <li>[Code: L8 Tutorial](https://github.com/shary777/JOUR7280/tree/master/codes/L8)|
 | Week 9 | Web scraping & Data visualization |<li>[Slides L9 data visualization](https://github.com/shary777/JOUR7280/blob/master/slides/L9%20data%20visualization.pdf) <li>[Code: L9 Tutorial](https://github.com/shary777/JOUR7280/tree/master/codes/L9)|
+| Week 10 | Data visualization |<li>[Code: L10 Tutorial](https://github.com/shary777/JOUR7280/tree/master/codes/L10)|
+| Week 11 | Data visualization |<li>[Code: L11 Tutorial](https://github.com/shary777/JOUR7280/tree/master/codes/L11)|
 
 *Notes: the code examples are for educational purposes and in-class demonstrations only. Since the webpages for harvesting are subject to change, the codes presented in this course may not work as always.*
 
